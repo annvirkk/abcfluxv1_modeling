@@ -1,0 +1,2 @@
+"nrow","socmin","socmax","dtmmin","dtmmax","phmin","phmax","permamin","permamax","sradmin","sradmax","tmeanmin","tmeanmax","vpdmin","vpdmax","co2min","co2max","ndvimin","ndvimax","soiltempmin","soiltempmax","snowcmin","snowcmax","soilmoistmin","soilmoistmax","treecmin","treecmax","nontreecmin","nontreecmax","nonvegcmin","nonvegcmax"
+1,65.39,5987.09,-4524.27,3863.42,36.67,78.3,0,1,0,34360.48046875,-5160.12158203125,2429.87084960938,0,196.341262817383,346.61,410650,-3000,9969.078125,247.9,30072,0,10000,0.08,77,0,175,0,100,0,100
